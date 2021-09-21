@@ -1,0 +1,20 @@
+body{
+    background-color: #D0E4F5;
+            background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAP4AAADHCAMAAAAOPR4GAAAATlBMVEX/+p3/w+Hjtvv/4qev4v/G+Kb/4Kis5P/itfz/xeL/weX/957T+KTH+aG26eXPyPzwvO//z8v/6qTy+Z/E9rHms/v/wOX/5KK16OvTxfylsMltAAABO0lEQVR4nO3cx0EDQBAEwcVJCCG8zT9RsmAf1RXB9u8+c3OizRWtfFn5svJl5cvmgTYH2tzQypeVLytfVr5Mf/WdaZMkSRLBI23uaOXLypeVLytfNhfaPNHmlla+rHxZ+bLyZXOkzTNtrmnly8qXlS8rXzb3tHmh6SvO7QN2lS8rX1a+rHzZvNLmm6aPWLcP2FW+rHxZ+TI9/422PSNMkiTJv3in6SvO7QN2lS8rX1a+rHzZfND0Fef2AbvKl5UvK19WvkzP/6TpI9btA3aVLytfVr5Mz9/+PmLXnGj6inP7gF3ly8qXlS/T879o/d4gK19Wvqx8WfmyOdDmTNteUSZJkuRfPNL0Fef2AbvKl5UvK1+m519o80PTZ4zbB+wqX1a+rHyZnn+kzS9NX3FuH7CrfFn5svJl5cv+AAwTM7pe5nq8AAAAAElFTkSuQmCC");
+            background-repeat: repeat;
+            background-attachment: scroll;
+            background-position: 0% 0%;
+}
+h1{
+    text-align: center;
+    font: 200;
+    background-color: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium';
+    font-style: oblique;
+}
+
+
+.h3{
+    text-transform: capitalize;
+}
